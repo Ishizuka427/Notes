@@ -11,12 +11,12 @@ Pod が単一の Zone に固まっていると Zone の障害で全滅の可能�
 ### Service Topology
 - Service に topologyKeys を明示  
 - 複数の Key を指定すると、通信先が見つかるまで順番に探しに行く  
--> わざわざ指定するので認知負荷高　※　v1.20 で Deprecated
+-> わざわざ指定するので認知負荷高　※v1.20 で Deprecated
 
 ### EndpointSlice Subsetting
 - 単一の大きな Endpoints リソースを、自動で複数の小さな EndpointSlice に分割する  
 - Service Topology のような Topology 指定が不要になる  
--> 分割によって　EndpointSlice　数、更新が増加する ※　KEP　のみでお蔵入り
+-> 分割によって　EndpointSlice　数、更新が増加する ※KEP　のみでお蔵入り
 
 ## 本題
 ### Topology Aware Hints
