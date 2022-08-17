@@ -16,7 +16,7 @@ Pod が単一の Zone に固まっていると Zone の障害で全滅の可能�
 ### EndpointSlice Subsetting
 - 単一の大きな Endpoints リソースを、自動で複数の小さな EndpointSlice に分割する  
 - Service Topology のような Topology 指定が不要になる  
--> 分割によって　EndpointSlice　数、更新が増加する ※KEP　のみでお蔵入り
+-> 分割によって　EndpointSlice　数、更新が増加する ※KEPのみでお蔵入り
 
 ## 本題
 ### Topology Aware Hints
