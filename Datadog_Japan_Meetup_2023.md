@@ -9,7 +9,7 @@ https://www.datadoghq.com/ja/blog/datadog-bits-generative-ai/
 `Ask Bits AI`  
 問いかけの例:  
   - 「何ができますか」
-  - 「tax-return-web の状況を教えて」
+  - 「xxx-server の状況を教えて」
 
 ### Frex Tier  
 https://www.datadoghq.com/ja/blog/flex-logging/  
