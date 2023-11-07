@@ -2,7 +2,7 @@
 
 ## DASH で発表された新機能振り返り
 
-### Bits AI  ※　未反映
+### Bits AI ※ 未反映
 https://www.datadoghq.com/ja/blog/datadog-bits-generative-ai/  
 ![image](https://github.com/Ishizuka427/Notes/assets/56011102/92bca02f-0f7e-404e-9f06-8ad8eb2f7a2a)
 
