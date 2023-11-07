@@ -13,7 +13,7 @@ https://www.datadoghq.com/ja/blog/datadog-bits-generative-ai/
 
 ### Frex Tier  
 https://www.datadoghq.com/ja/blog/flex-logging/  
-ログの保持期間。従来の Standard Tirer と比較して中長期的に ◎
+ログの保持期間。従来の Standard Tier と比較して中長期的に ◎
 
 ### トレースクエリ  
 Search for traces トレースの検索で 2 件以上検索できるようになった
