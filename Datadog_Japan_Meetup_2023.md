@@ -2,40 +2,38 @@
 
 ## DASH で発表された新機能振り返り
 
-### LLM AI エコシステム
-(まだ未公開)
-- Bits AI  
-Ask Bits AI
+### Bits AI  
+https://www.datadoghq.com/ja/blog/datadog-bits-generative-ai/  
+![image](https://github.com/Ishizuka427/Notes/assets/56011102/92bca02f-0f7e-404e-9f06-8ad8eb2f7a2a)
+
+`Ask Bits AI`  
+問いかけの例:  
   - 「何ができますか」
   - 「tax-return-web の状況を教えて」
 
-### 次世代のオブザーバビリティ
-
-- Frex Tier  
-  従来の Standard Tirer と比較して中長期的 ◎
-- Enable APM Instrumentation
-- トレースクエリ  
+### Frex Tier  
+https://www.datadoghq.com/ja/blog/flex-logging/
+  ログの保持期間。従来の Standard Tirer と比較して中長期的に ◎
+### Enable APM Instrumentation
+https://docs.datadoghq.com/ja/tracing/trace_collection/single-step-apm/?tab=linux%E3%83%9B%E3%82%B9%E3%83%88%E3%81%BE%E3%81%9F%E3%81%AFvm
+### トレースクエリ  
   Search for traces トレースの検索で 2 件以上検索できるようになった
 
-- AI による Error の修正案  
+### AI による Error の修正案  
   Error Tracking 　で検出した Error について、コードの修正案をだしてくれる
 
-### DevOps におけるセキュリティ
-
-- Security inbox  
+### Security inbox  
   CSM
 
-- アプリコード内のリアルタイム脆弱性検知  
+### アプリコード内のリアルタイム脆弱性検知  
   静的解析  
   static Analysis
 
-- Quality Gates  
+### Quality Gates  
   モバイルでユーザーの実際の動作を録画できるようになった（Web ではできたらしい）
 
-### Shift Left 開発エクスペリエンス
 
-### Cloud コスト最適化
-
+---
 - Cloud cost レコメンデーション  
   AI で最適なコスト削減のアドバイスを行う
 
