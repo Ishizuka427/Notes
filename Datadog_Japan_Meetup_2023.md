@@ -23,7 +23,7 @@ Error Tracking 　で検出した Error について、コードの修正案を�
 
 ### Security inbox  
 重要なセキュリティ問題に優先順位を付けて対処できる新機能  
-https://www.datadoghq.com/about/latest-news/press-releases/datadog-announces-security-inbox-to-help-engineers-prioritize-issues-save-time-and-improve-security-posture/
+https://www.datadoghq.com/about/latest-news/press-releases/datadog-announces-security-inbox-to-help-engineers-prioritize-issues-save-time-and-improve-security-posture/  
 CSM
 
 ### アプリコード内のリアルタイム脆弱性検知  
@@ -42,9 +42,9 @@ AI で最適なコスト削減のアドバイスを行う
 - セッションリプレイからブラウザテストを自動生成  
   もともとセッションリプレイの機能はあった → セッションリプレイから、ボタンポチでテストを自動生成できるようになった
 
-- Current blueprint
-https://blog.cloudcraft.co/datadog-bolsters-multi-cloud-visualization-design-with-the-addition-of-cloudcraft-for-azure/
-![image](https://github.com/Ishizuka427/Notes/assets/56011102/b18fb983-7042-43cd-a08c-cd0ae0fe9070)
+- Current blueprint  
+https://blog.cloudcraft.co/datadog-bolsters-multi-cloud-visualization-design-with-the-addition-of-cloudcraft-for-azure/  
+![image](https://github.com/Ishizuka427/Notes/assets/56011102/b18fb983-7042-43cd-a08c-cd0ae0fe9070)  
 
 Cloudcraft × Datadog
 
@@ -64,14 +64,14 @@ Cloudcraft × Datadog
 
 # 今さら聞けない、Datadog を活用した複雑に絡み合ったシステムのパフォーマンス改善
 
-- trace
-https://docs.datadoghq.com/ja/getting_started/tracing/
+- trace  
+https://docs.datadoghq.com/ja/getting_started/tracing/  
   ボタン発火でどのようなサービスが使われているかがわかる  
   → Service Catalog を実現している  
   Service Catalog に表示されないのは trace の設定ができていないから？  
 
 - エラーの起こったユーザーセッションを RUM (リアルユーザーモニタリング)  
-https://www.datadoghq.com/ja/product/real-user-monitoring/
+https://www.datadoghq.com/ja/product/real-user-monitoring/  
   RUM について知りたい  
 
 # ライトニングトーク 1 株式会社キュービック 森 祐太朗さん
